@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "MNvtqhLrFjW3h0/bd3sz7y1vS3wGqr9A9PGMEk6y7pc=",
+  "Source": "paf.api",
+  "BasePath": "_content/paf.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "paf.api\\wwwroot",
+      "Source": "paf.api",
+      "ContentRoot": "E:\\free time projects\\problem and fix\\api\\paf.api\\wwwroot\\",
+      "BasePath": "_content/paf.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\free time projects\\problem and fix\\api\\paf.api\\wwwroot\\uploads\\01163f35-1bfb-4d07-bc3b-2e56e5b6e66cPicsart_22-03-16_16-01-30-130(1).jpg",
+      "SourceId": "paf.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\free time projects\\problem and fix\\api\\paf.api\\wwwroot\\",
+      "BasePath": "_content/paf.api",
+      "RelativePath": "uploads/01163f35-1bfb-4d07-bc3b-2e56e5b6e66cPicsart_22-03-16_16-01-30-130(1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\01163f35-1bfb-4d07-bc3b-2e56e5b6e66cPicsart_22-03-16_16-01-30-130(1).jpg"
+    },
+    {
+      "Identity": "E:\\free time projects\\problem and fix\\api\\paf.api\\wwwroot\\uploads\\01bca7ad-1282-47db-b019-4cd1975b6c23Picsart_22-03-16_16-01-30-130(1).jpg",
+      "SourceId": "paf.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\free time projects\\problem and fix\\api\\paf.api\\wwwroot\\",
+      "BasePath": "_content/paf.api",
+      "RelativePath": "uploads/01bca7ad-1282-47db-b019-4cd1975b6c23Picsart_22-03-16_16-01-30-130(1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\01bca7ad-1282-47db-b019-4cd1975b6c23Picsart_22-03-16_16-01-30-130(1).jpg"
+    }
+  ]
+}
